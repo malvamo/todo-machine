@@ -4,8 +4,6 @@ import { TodoList } from './TodoList';
 import { TodoItem } from './TodoItem';
 import { CreateTodoButton } from './CreateTodoButton';
 import React from 'react';
-import './App.css';
-
 
 const defaultTodos = [
   { text: 'Salir a caminar', completed: false },
