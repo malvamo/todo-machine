@@ -11,7 +11,7 @@ function TodoSearch() {
 
     return (
         <input 
-            placeholder="Cortar cebolla"
+            placeholder="Find a pending task"
             className="TodoSearch" 
             value={searchValue}
             onChange={(event) => {
