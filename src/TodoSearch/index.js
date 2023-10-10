@@ -11,7 +11,7 @@ function TodoSearch() {
 
     return (
         <input 
-            placeholder="Find a pending task"
+            placeholder="Busca una tarea pendiente"
             className="TodoSearch" 
             value={searchValue}
             onChange={(event) => {
